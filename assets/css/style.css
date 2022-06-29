@@ -273,6 +273,8 @@ footer .cv-pdf i:hover {
 .personal-info-item .key p,
 .personal-info-item .value p {
     margin: 0;
+    color: black;
+    font-weight: 500;
 }
 
 .personal-info-item .key {
